@@ -10,5 +10,6 @@
 - 😄 My [LinkedIn](https://www.linkedin.com/in/muxing-lin-0a2b66200/)
 - 🔭 I’m currently working on my project [ArichpelaGo](https://github.com/ivalkshfoeif/ArichpelaGo)~
 - 🌱 I’m currently learning building real-world business data system!
+- 🐱 cat person
 
 
