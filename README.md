@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🍻 First year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/), _MSe in Information System_
+- 🍻 First year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/), _MEng in Information System_
 - ⚡ Java / Javascript.
 - ✍️ [Online Protoflio](http://muxinglin.com/)
