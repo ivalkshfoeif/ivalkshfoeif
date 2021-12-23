@@ -4,7 +4,7 @@
 
 
 
-- 🍻 First year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/), _MEng in Information System_
+- 🍻 First year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/)
 - ⚡ JavaScript / Java.
 - ✍️ My [Online Protflio](http://muxinglin.com/)
 - 😄 My [LinkedIn](https://www.linkedin.com/in/muxing-lin-0a2b66200/)
