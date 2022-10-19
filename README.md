@@ -4,7 +4,7 @@
 
 
 
-- 🍻 First year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/)
+- 🍻  year student at [NEU](http://catalog.northeastern.edu/graduate/engineering/multidisciplinary/information-systems-msis/)
 
 
 
